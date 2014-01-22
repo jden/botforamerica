@@ -1,6 +1,7 @@
 var sarcasticMessages = [
   'JFPIOAM!',
-  'put a map on it!'
+  'put a map on it!',
+  'remember, this is an exercise in adhoc-ness!'
 ]
 
 module.exports = function (robot) {
