@@ -1,4 +1,11 @@
-# Hubot
+# cfa_cephalopod
+
+
+It's a version of hubot, running on other things, y'know?
+
+Make new scripts and dump it in the scripts directory
+
+## etc
 
 This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
 
